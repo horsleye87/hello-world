@@ -1,7 +1,7 @@
 # hello-world
 My first repository clean and sober.
 I went into a program.
-im on my 5th ztep of the 12 steps.
+Im on my 5th step of the 12 steps.
 Im ready to learn and show what im capable of.
 I understand python to an extent.
 Im can create web pages. 
